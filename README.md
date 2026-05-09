@@ -4,11 +4,11 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=00FF7F&repeat=false&duration=4000&lines=Md.Monerujamman Munna;" alt="Typing SVG" />
   </a>
-</div>
+</div> -->
 <div align="center">
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=gradient&customColorList=6,11,20,29&duration=4000&lines=MERN-Stack-Developer;+Full-Stack-Developer;Frontend-Developer;+JavaScript-Developer;+React-Developer;" alt="Typing SVG" />
@@ -102,7 +102,7 @@ I am **Md. Monerujamman Munna**, a passionate **MERN stack developer** and compu
 <a href="" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="www.linkedin.com/in/mdmonerujammanmunna" target="_blank">
+  <a href="https://www.linkedin.com/in/mdmonerujammanmunna/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
    <a href="https://github.com/MdMonerujammanMunna" target="_blank">
