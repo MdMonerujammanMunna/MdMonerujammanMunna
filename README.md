@@ -43,13 +43,13 @@ I am **Md. Monerujamman Munna**, a passionate **MERN stack developer** and compu
 
  <!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) -->
 <p align="left"> 
-<a href="" target="_blank">
+<a >
     <img src="https://skillicons.dev/icons?i=ai" />
   </a>
-  <a href="" target="_blank">
+  <a>
     <img src="https://skillicons.dev/icons?i=ps" />
   </a>
-   <a href="" target="_blank">
+   <a >
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
@@ -97,9 +97,6 @@ I am **Md. Monerujamman Munna**, a passionate **MERN stack developer** and compu
 ## ⛓️‍💥 Connect With Me
 
 <p align="center"> 
-<a href="" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
   <a href="https://www.linkedin.com/in/mdmonerujammanmunna/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
