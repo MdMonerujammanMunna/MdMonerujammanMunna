@@ -100,13 +100,13 @@ I am **Md. Monerujamman Munna**, a passionate **MERN stack developer** and compu
 <a href="" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/mdmonerujammanmunna/" target="_blank">
+  <a href="https://www.linkedin.com/in/mdmonerujammanmunna/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-   <a href="https://github.com/MdMonerujammanMunna" target="_blank">
+   <a href="https://github.com/MdMonerujammanMunna" target="blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-   <a href="discordapp.com/users/1460984216358752332" target="_blank">
+   <a href="https://discordapp.com/users/1460984216358752332" target="blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
