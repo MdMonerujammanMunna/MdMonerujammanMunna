@@ -106,7 +106,7 @@ I am **Md. Monerujamman Munna**, a passionate **MERN stack developer** and compu
    <a href="https://github.com/MdMonerujammanMunna" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-   <a href="" target="_blank">
+   <a href="discordapp.com/users/1460984216358752332" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
