@@ -17,12 +17,20 @@ I'm a passionate MERN Stack Developer and Computer Science student from Banglade
 
 
 ### 🔭 Current Learning Path
-- 📚 **Deep Diving:** Exploring **TypeScript**, **Next.js** applications.
+- 📚 **Deep Diving:** Exploring **TypeScript**, **Next.js**, **Authentication & Security**, **REST API Development**, **Advanced React Patterns** applications.
 - 🎓 **Education:** Pursuing a **Diploma in Computer Science & Technology**, learning core software principles.
 <!-- - 🚀 **Next Milestone:** Engineering a comprehensive **Travel Web Application** to implement full CRUD and booking logic. -->
 
 ---
+### 🎯 Goals For 2026
+-Build scalable full-stack applications
+- Master TypeScript & Next.js.
+- Contribute to Open Source Projects.
+- Improve Backend & Database Skills.
+- Land a Professional Software Development Role.
 
+  
+---
 ### 💡 Core Learning Stack
 - **Frontend:** Building interactive UIs with **React.js**, **Tailwind CSS**, and transitioning to **Next.js**.
 - **Backend:** Learning to build RESTful APIs with **Node.js** and **Express**.
@@ -30,9 +38,7 @@ I'm a passionate MERN Stack Developer and Computer Science student from Banglade
 - **Security:** Implementing **JWT** (JSON Web Tokens) for secure user sessions and authorization.
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMonerujammanMunna&layout=compact&theme=tokyonight" />
-</p>
+
 
 # 🛠️ Tech Stack
 
@@ -105,9 +111,6 @@ I'm a passionate MERN Stack Developer and Computer Science student from Banglade
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MdMonerujammanMunna&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
 
 
 ## GitHub stats
