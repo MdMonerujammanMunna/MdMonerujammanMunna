@@ -23,7 +23,7 @@ I'm a passionate MERN Stack Developer and Computer Science student from Banglade
 
 ---
 ### 🎯 Goals For 2026
--Build scalable full-stack applications
+- Build scalable full-stack applications
 - Master TypeScript & Next.js.
 - Contribute to Open Source Projects.
 - Improve Backend & Database Skills.
