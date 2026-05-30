@@ -30,16 +30,10 @@ I'm a passionate MERN Stack Developer and Computer Science student from Banglade
 - **Security:** Implementing **JWT** (JSON Web Tokens) for secure user sessions and authorization.
 
 ---
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdMonerujammanMunna&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMonerujammanMunna&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdMonerujammanMunna&theme=tokyonight" />
-</p>
----
 # 🛠️ Tech Stack
 
 <!-- ## 🎨 Design Tools / UI-UX Tools -->
@@ -111,7 +105,9 @@ I'm a passionate MERN Stack Developer and Computer Science student from Banglade
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdMonerujammanMunna&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 
 ## GitHub stats
