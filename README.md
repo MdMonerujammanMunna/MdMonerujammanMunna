@@ -2,11 +2,6 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Md.Monerujamman%Munna&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 </p>
 
-<!-- <div align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=00FF7F&repeat=false&duration=4000&lines=Md.Monerujamman Munna;" alt="Typing SVG" />
-  </a>
-</div> -->
 <div align="center">
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=gradient&customColorList=6,11,20,29&duration=4000&lines=MERN-Stack-Developer;+Full-Stack-Developer;Frontend-Developer;+JavaScript-Developer;+React-Developer;" alt="Typing SVG" />
@@ -18,7 +13,7 @@
 
 ### 🚀 About Me
 
-I am **Md. Monerujamman Munna**, a passionate **MERN stack developer** and computer science student. I enjoy building modern, responsive, and user-friendly web applications using JavaScript, React, Node.js, and MongoDB. I am passionate about learning new technologies, solving real-world problems, and writing clean, efficient code. My goal is to grow as a full-stack developer and create impactful digital experiences that make users’ lives easier.
+I'm a passionate MERN Stack Developer and Computer Science student from Bangladesh. I enjoy building modern web applications with React, Next.js, Node.js, Express.js, and MongoDB. Currently, I'm focused on improving my full-stack development skills and exploring TypeScript and advanced Next.js concepts.
 
 
 ### 🔭 Current Learning Path
@@ -35,8 +30,16 @@ I am **Md. Monerujamman Munna**, a passionate **MERN stack developer** and compu
 - **Security:** Implementing **JWT** (JSON Web Tokens) for secure user sessions and authorization.
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdMonerujammanMunna&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdMonerujammanMunna&theme=tokyonight" />
+</p>
+---
 # 🛠️ Tech Stack
 
 <!-- ## 🎨 Design Tools / UI-UX Tools -->
