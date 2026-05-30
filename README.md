@@ -65,7 +65,7 @@ I'm a passionate MERN Stack Developer and Computer Science student from Banglade
 |:---:|:---:|:---:|:---:| -->
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
  
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![FlyonUI](https://img.shields.io/badge/FlyonUI-7C3AED?style=for-the-badge&logo=tailwindcss&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![FlyonUI](https://img.shields.io/badge/FlyonUI-7C3AED?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Headless UI](https://img.shields.io/badge/Headless%20UI-66E3FF?style=for-the-badge&logo=tailwindcss&logoColor=000000) ![Flowbite](https://img.shields.io/badge/Flowbite-3B82F6?style=for-the-badge&logo=flowbite&logoColor=white) ![HyperUI](https://img.shields.io/badge/HyperUI-000000?style=for-the-badge&logo=hyper&logoColor=white)
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
