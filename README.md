@@ -74,9 +74,8 @@ I'm a passionate MERN Stack Developer and Computer Science student from Banglade
 
 
  <!-- ## 🔧 Backend Development -->
-
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![NextAuth.js](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Better Auth](https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
+<!-- ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)-->
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NextAuth.js](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Better Auth](https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
 
 
 
