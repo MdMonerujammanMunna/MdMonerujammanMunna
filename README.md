@@ -17,7 +17,7 @@ I'm a passionate MERN Stack Developer and Computer Science student from Banglade
 
 
 ### 🔭 Current Learning Path
-- 📚 **Deep Diving:** Exploring **TypeScript**, **Next.js**, **Authentication & Security**, **REST API Development**, **Advanced React Patterns** applications.
+- 📚 **Deep Diving:** Exploring **TypeScript**,  **Next.js**, **Authentication & Security**, **REST API Development**, **Advanced React Patterns** applications.
 - 🎓 **Education:** Pursuing a **Diploma in Computer Science & Technology**, learning core software principles.
 <!-- - 🚀 **Next Milestone:** Engineering a comprehensive **Travel Web Application** to implement full CRUD and booking logic. -->
 
