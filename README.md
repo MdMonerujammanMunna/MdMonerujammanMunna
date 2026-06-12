@@ -139,10 +139,3 @@ Online course platform with user roles and protected routes.
 <p align="center" width="100%">
   <img src="https://yourinsights.vercel.app/api/insight?username=MdMonerujammanMunna" alt="GitHub Insights" />
 </p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdMonerujammanMunna&theme=algolia&no-frame=true&margin-w=15" />
-</p>
-
