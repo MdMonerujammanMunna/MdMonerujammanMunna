@@ -9,27 +9,37 @@
 </div>
 
 
-## 👨‍💻 Md.Monerujamman Munna — Aspiring MERN Stack Developer
+## 👨‍💻 Md.Monerujamman Munna
+### Full Stack JavaScript Developer | MERN Stack Enthusiast | Computer Science Student
 
 ### 🚀 About Me
 
-I'm a passionate MERN Stack Developer and Computer Science student from Bangladesh. I enjoy building modern web applications with React, Next.js, Node.js, Express.js, and MongoDB. Currently, I'm focused on improving my full-stack development skills and exploring TypeScript and advanced Next.js concepts.
+I'm a passionate Full Stack JavaScript Developer from Bangladesh and a Diploma student in Computer Science & Technology.
+
+I enjoy building modern, scalable, and user-friendly web applications using React, Next.js, Node.js, Express.js, MongoDB, and TypeScript.
+
+Currently, I'm focused on improving my full-stack development skills, mastering TypeScript, exploring advanced Next.js concepts, and building real-world applications.
 
 
 ### 🔭 Current Learning Path
-- 📚 **Deep Diving:** Exploring **TypeScript**,  **Next.js**, **Authentication & Security**, **REST API Development**, **Advanced React Patterns** applications.
-- 🎓 **Education:** Pursuing a **Diploma in Computer Science & Technology**, learning core software principles.
 <!-- - 🚀 **Next Milestone:** Engineering a comprehensive **Travel Web Application** to implement full CRUD and booking logic. -->
+- 📚 Learning TypeScript Deeply
+- ⚡ Building Full Stack Next.js Applications
+- 🔐 Authentication & Authorization
+- 🌐 REST API Development
+- 🏗️ Backend Architecture
+- 🚀 Open Source Contributions 
 
+- 🎓 **Education:** Pursuing a **Diploma in Computer Science & Technology**, learning core software principles.
 ---
 ### 🎯 Goals For 2026
-- Build scalable full-stack applications
-- Master TypeScript & Next.js.
-- Contribute to Open Source Projects.
-- Improve Backend & Database Skills.
-- Land a Professional Software Development Role.
 
-  
+- ✅ Master TypeScript
+- ✅ Build Production-Ready Full Stack Applications
+- ✅ Contribute to Open Source Projects
+- ✅ Learn System Design Fundamentals
+- ✅ Secure a Software Engineering Internship
+- ✅ Land a Professional Software Development Role
 ---
 ### 💡 Core Learning Stack
 - **Frontend:** Building interactive UIs with **React.js**, **Tailwind CSS**, and transitioning to **Next.js**.
