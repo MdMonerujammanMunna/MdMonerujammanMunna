@@ -1,4 +1,4 @@
-<!-- <p align="center">
+ <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Md.Monerujamman%Munna&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 </p> 
 
@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=gradient&customColorList=6,11,20,29&duration=4000&lines=MERN-Stack-Developer;+Full-Stack-Developer;Frontend-Developer;+JavaScript-Developer;+React-Developer;" alt="Typing SVG" />
   </a>
-</div> -->
+</div>
 
 
 ## 👨‍💻 Md.Monerujamman Munna
