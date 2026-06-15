@@ -1,6 +1,4 @@
- <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Md.Monerujamman%Munna&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-</p> 
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
