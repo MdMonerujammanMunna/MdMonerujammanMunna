@@ -44,6 +44,9 @@ Currently, I'm focused on improving my full-stack development skills, mastering 
 
 ## 🚀 Featured Projects
 
+### 🤖 ArtiQuomi – AI-Powered Content Creation Platform
+Create, refine, and manage AI-generated content with a fast, intuitive, and user-friendly experience.
+
 ### 💼 HireLoop
 A modern job portal built with Next.js, TypeScript, MongoDB, and HeroUI.
 
