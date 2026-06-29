@@ -47,8 +47,10 @@ Currently, I'm focused on improving my full-stack development skills, mastering 
 ### 🤖 ArtiQuomi – AI-Powered Content Creation Platform
 Create, refine, and manage AI-generated content with a fast, intuitive, and user-friendly experience.
 
+<!-- 
 ### 💼 HireLoop
 A modern job portal built with Next.js, TypeScript, MongoDB, and HeroUI.
+-->
 
 ### 🌍 Travel Booking Platform
 Full-stack travel booking application with authentication and dashboard features.
