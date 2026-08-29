@@ -43,22 +43,22 @@ Currently, I'm focused on improving my full-stack development skills, mastering 
 ---
 
 ## 🚀 Featured Projects
-
+<!-- 
 ###  💼 HireLoop
 A modern job portal built with Next.js, TypeScript, MongoDB, and HeroUI.
 
 
-<!-- 
+
 ###  🤖 ArtiQuomi – AI-Powered Content Creation Platform
 Create, refine, and manage AI-generated content with a fast, intuitive, and user-friendly experience.
--->
+
 
 ### 🌍 Travel Booking Platform
 Full-stack travel booking application with authentication and dashboard features.
 
 ### 📚 Learning Management System
 Online course platform with user roles and protected routes.
-
+-->
 ---
 ### 💡 Core Learning Stack
 - **Frontend:** Building interactive UIs with **React.js**, **Tailwind CSS**, and transitioning to **Next.js**.
