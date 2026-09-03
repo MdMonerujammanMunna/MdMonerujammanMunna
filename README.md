@@ -10,7 +10,7 @@
 
 
 ## 👨‍💻 Md.Monerujamman Munna
-### Full Stack JavaScript Developer | MERN Stack Enthusiast | Computer Science Student
+### Full Stack TypeScript Developer | MERN Stack Enthusiast | Computer Science Student
 
 ### 🚀 About Me
 
