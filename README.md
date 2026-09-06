@@ -22,14 +22,15 @@ Currently, I'm focused on improving my full-stack development skills, mastering 
 
 
 ### 🔭 Current Learning Path
-<!-- - 🚀 **Next Milestone:** Engineering a comprehensive **Travel Web Application** to implement full CRUD and booking logic. -->
+🚀 **Next Milestone:** Engineering a comprehensive **Travel Web Application** to implement full CRUD and booking logic.
+<!-- - 
 - 📚 Learning TypeScript Deeply
 - ⚡ Building Full Stack Next.js Applications
 - 🔐 Authentication & Authorization
 - 🌐 REST API Development
 - 🏗️ Backend Architecture
 - 🚀 Open Source Contributions 
-
+ -->
 - 🎓 **Education:** Pursuing a **Diploma in Computer Science & Technology**, learning core software principles.
 ---
 ### 🎯 Goals For 2026
