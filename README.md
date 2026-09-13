@@ -61,7 +61,7 @@ Online course platform with user roles and protected routes.
 ---
 ### 💡 Core Learning Stack
 - **Frontend:** Building interactive UIs with **React.js**, **Tailwind CSS**, and transitioning to **Next.js**.
-- **Backend:** Learning to build RESTful APIs with **Node.js** and **Express**.
+- **Backend:** Learning to build RESTful APIs with **Node.js** and **Express.js**.
 - **Database:** Managing data with **MongoDB**.
 - **Security:** Implementing **JWT** (JSON Web Tokens) for secure user sessions and authorization.
 
